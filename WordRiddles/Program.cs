@@ -26,5 +26,5 @@ namespace WordRiddles
                 Console.WriteLine(line);
             }
         }
-    }
+    } 
 }
